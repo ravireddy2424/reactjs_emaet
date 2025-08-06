@@ -10,7 +10,7 @@ const MobileSinglePage = () => {
     return (
         <>
             <div>
-                <div>this is sample</div>
+               
 
                 <div>
                     <img src={Product.image } alt=""/>
